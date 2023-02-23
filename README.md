@@ -13,5 +13,5 @@ Im Ordner dann das Dokument `wetterstation.tex` kompilieren:
 ```sh
 pdflatex wetterstation.tex
 ```
-**Wichtig:** Das compilen muss 2x durchgeführt werden da für
+**Wichtig:** Das Kompilieren muss 2x durchgeführt werden, da für
 das Inhaltsverzeichis *kreuzreferenziert* werden muss.

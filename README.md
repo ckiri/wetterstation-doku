@@ -1,4 +1,7 @@
-# wetterstation-dokumentation
+# Wetterstation Dokumentation
+
+Dokumentation zum Projekt [Wetterstation](https://github.com/ckiri/wetterstation).
+
 Um die Dokumentation compilen zu können wird eine LaTeX Distribution
 benötigt. Zu empfehlen ist, sich das Meta Package `texlive-most` zu installieren.
 
